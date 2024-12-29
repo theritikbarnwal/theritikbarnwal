@@ -63,5 +63,3 @@ I'm always open to new ideas and collaboration. Feel free to reach out to me thr
 ### Fun Facts
 - I’m currently learning **advanced web scraping techniques**, including dynamic content scraping and bypassing anti-scraping measures.
 - I love exploring the **data science** space and creating projects that make a real impact.
-- In my free time, I enjoy reading about new technologies and improving my coding skills.
-

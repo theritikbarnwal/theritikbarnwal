@@ -6,6 +6,10 @@
 
 ###
 
+### About Me
+I'm a passionate **Data Science** student with a focus on **Machine Learning** and **Web Scraping**. I love solving real-world problems through data and turning complex data into actionable insights. I am currently honing my skills in **Python**, **Power BI**, and **Automation**.
+
+### Skills & Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -24,9 +28,23 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="powerbi logo" />
 </div>
 
 ###
+
+### Projects
+- **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
+- **Web Scraping Projects:** Built a powerful web scraper using Selenium and BeautifulSoup to collect data from websites like Amazon and IMDB.
+- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Yhills Company** to visualize business performance metrics.
+
+### Let's Connect
+I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:
 
 <div align="left">
   <a href="https://www.instagram.com/theritikbarnwal" target="_blank">
@@ -41,3 +59,9 @@
 </div>
 
 ###
+
+### Fun Facts
+- I’m currently learning **advanced web scraping techniques**, including dynamic content scraping and bypassing anti-scraping measures.
+- I love exploring the **data science** space and creating projects that make a real impact.
+- In my free time, I enjoy reading about new technologies and improving my coding skills.
+

@@ -43,6 +43,8 @@ I'm a passionate **Data Science** student with a focus on **Machine Learning** a
 ### Projects
 - **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
 - **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Yhills Company** to visualize business performance metrics.
+- **Web Scraping- servicenow:** Developed a web scraper to extract job listings from **servicenow**, capturing key details such as job title, location, and experience requirements
+- **GitHub Repo Search:** Built a web application for quickly searching and tracking GitHub repositories.
 
 ### Let's Connect
 I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:

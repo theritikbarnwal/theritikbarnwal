@@ -5,7 +5,7 @@
       <h3>Aspiring Automation Engineer passionate about Python, Web Scraping, and Data Automation.</h3>
     </td>
     <td>
-      <a href="skillquestcircle.vercel.app">
+      <a href="https://skillquestcircle.vercel.app/">
       <img src="https://media.giphy.com/media/Ob1o2Urcs8Cvod4NhM/giphy.gif" width="150" alt="Person drinking coffee" />
       </a>
       </td>

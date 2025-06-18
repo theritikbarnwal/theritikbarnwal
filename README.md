@@ -1,68 +1,43 @@
-<h2 align="left">Hi 👋! I'm Ritik Barnwal.</h2>
+<table>
+  <tr>
+    <td valign="top">
+      <h1>Hi 👋, I'm Ritik Barnwal</h1>
+      <h3>Aspiring Automation Engineer passionate about Python, Web Scraping, and Data Automation.</h3>
+    </td>
+    <td>
+      <a href="skillquestcircle.vercel.app">
+      <img src="https://media.giphy.com/media/Ob1o2Urcs8Cvod4NhM/giphy.gif" width="150" alt="Person drinking coffee" />
+      </a>
+      </td>
+  </tr>
+</table>
 
-###
+---
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt0ZzlibzJpaWRmYnM3d3RtNTg2d3Axb2tyN2xtMTU1NnExeG94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cz4zNw55zakg2nglWn/giphy.gif"  />
+- 🔭 I’m currently working on [DevOps](https://github.com/theritikbarnwal/DevOps)  
+- 👨‍💻 All of my projects are available at [Ritik Barnwal](https://theritikbarnwal-portfolio.vercel.app/)  
+- 📫 Reach me at: **theritikbarnwal@gmail.com**
 
-<!-- COFFEE -->
+---
 
-###
+### 🌐 Connect with me
 
-### About Me
-I'm a passionate **Data Science** student with a focus on **Machine Learning** and **Web Scraping**. I love solving real-world problems through data and turning complex data into actionable insights. I am currently honing my skills in **Python**, **Power BI**, and **Automation**.
+<p>
+  <a href="https://dev.to/theritikbarnwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/theritikbarnwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/theritikbarnwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/theritikbarnwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/theritikbarnwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-### Skills & Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="powerbi logo" />
-</div>
-
-###
-
-### Projects
-- **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
-- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Yhills Company** to visualize business performance metrics.
-- **Web Scraping- servicenow:** Developed a web scraper to extract job listings from **servicenow**, capturing key details such as job title, location, and experience requirements
-- **GitHub Repo Search:** Built a web application for quickly searching and tracking GitHub repositories.
-
-### Let's Connect
-I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:
-
-<div align="left">
-  <a href="https://www.instagram.com/theritikbarnwal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/theritikbarnwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/theritikbarnwal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-### Fun Facts
-- I’m currently learning **advanced web scraping techniques**, including dynamic content scraping and bypassing anti-scraping measures.
-- I love exploring the **data science** space and creating projects that make a real impact.
+---
